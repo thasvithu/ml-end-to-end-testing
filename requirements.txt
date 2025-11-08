@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 fastapi
+ipykernel 
+scikit-learn
