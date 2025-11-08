@@ -1,8 +1,8 @@
 # 🚢 Titanic Survival Prediction - ML End-to-End Project
 
-[![Backend CI/CD](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/backend-ci.yml)
-[![Frontend CI/CD](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/frontend-ci.yml)
-[![Full Stack CI/CD](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/full-stack-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ml-end-to-end-testing/actions/workflows/full-stack-ci.yml)
+[![Backend CI/CD](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/backend-ci.yml)
+[![Frontend CI/CD](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/frontend-ci.yml/badge.svg)](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/frontend-ci.yml)
+[![Full Stack CI/CD](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/full-stack-ci.yml/badge.svg)](https://github.com/thasvithu/ml-end-to-end-testing/actions/workflows/full-stack-ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A full-stack machine learning application that predicts Titanic passenger survival using a trained ML model, FastAPI backend, and Next.js frontend with complete CI/CD pipeline.
@@ -53,7 +53,7 @@ A full-stack machine learning application that predicts Titanic passenger surviv
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-end-to-end-testing.git
+git clone https://github.com/thasvithu/ml-end-to-end-testing.git
 cd ml-end-to-end-testing
 ```
 
