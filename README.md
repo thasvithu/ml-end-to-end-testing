@@ -306,7 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-V.Vithusan - [@thasvithu](https://twitter.com/thasvithu)
+V.Vithusan - [@thasvithu](https://www.linkedin.com/in/thasvithu)
 
 Project Link: [https://github.com/thasvithu/ml-end-to-end-testing](https://github.com/thasvithu/ml-end-to-end-testing)
 
